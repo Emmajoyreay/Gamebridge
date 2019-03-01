@@ -9,9 +9,12 @@ p {font-size: 16px;}
 .bg-1 {
   background-color: #1abc9c; /* Green */
   color: #ffffff;
+  background-image: url("images/Luigi.jpg");
+  background-size: cover;
+  background-position: left top;
 }
 .bg-2 {
-  background-color: #474e5d; /* Dark Blue */
+  background-color: #2f4f4f; /* Dark Blue */
   color: #ffffff;
 }
 .bg-3 {
