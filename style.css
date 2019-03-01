@@ -3,6 +3,13 @@ body {
     line-height: 1.8;
     color: #f5f6f7;
 }
+
+.responsive:hover {
+  transition: 0.6s ease;
+  width: 27%;
+  height: auto;
+}
+
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;
 }
