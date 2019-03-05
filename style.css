@@ -1,5 +1,4 @@
-body {
-    font: 20px Montserrat, sans-serif;
+body {font: Helvetica;
     line-height: 1.8;
     color: #f5f6f7;
 }
@@ -10,7 +9,13 @@ body {
   height: auto;
 }
 
-p {font-size: 16px;}
+p {font: Helvetica, cursive;
+  font-size: 16px;}
+  h3 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    text-shadow: 3px 2px grey;
+  }
 
 h2 {
   font-family: 'Press Start 2P', cursive;
