@@ -5,7 +5,7 @@ body {font: Helvetica;
 
 .responsive:hover {
   transition: 0.6s ease;
-  width: 27%;
+  width: 26%;
   height: auto;
 }
 
@@ -17,6 +17,16 @@ Margin: 40px;
 p#blurbs {
 text-align: left;
 font-size: 15px;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+article {
+  max-width: 1000px;
+  padding: 20px;
+  margin: 0 auto;
 }
   h3 {
     font-family: 'Press Start 2P', cursive;
